@@ -9,6 +9,9 @@ Features
 - Classification using Multinomial Naive Bayes
 - Model evaluation using accuracy, precision, recall, and confusion matrix
 
+Model Workflow
+Text → TF-IDF → Naive Bayes → Prediction (Spam / Not Spam)
+
 Results
 - Accuracy: **94.2%**
 - Balanced precision and recall
