@@ -1,3 +1,4 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SnehaGardiner/Email_Spam_Detection_Tool/blob/main/notebook/spam_detection.ipynb)
 Spam Email Detection
 
 This project builds a machine learning model to classify emails as spam or not spam using NLP techniques.
